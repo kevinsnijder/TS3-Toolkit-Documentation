@@ -1,4 +1,6 @@
 # ![headerimage](https://imgur.com/VVTWfhe.png)
+<a href='https://play.google.com/store/apps/details?id=com.kevin.ts3toolkit&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="175px" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+
 # Initial setup
 As a server owner, you'll need to do a a bit of configuration before your clients can connect with the TS3 Toolkit app.
 The server groups that are allowed to use the app should have the ***yeet*** permission.

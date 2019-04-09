@@ -3,7 +3,7 @@
 
 # Initial setup
 As a server owner, you'll need to do a a bit of configuration before your clients can connect with the TS3 Toolkit app.
-The server groups that are allowed to use the app should have the ***yeet*** permission.
+The server groups that are allowed to use the app should have the ***b_client_create_modify_serverquery_login*** permission.
 Don't worry, clients wont be able to kick and ban people with a serverquery if they don't have the correct permission. The serverquery will always have the exact same permissions as the user creating it.
 
 If you're not sure how to set this up, follow this tutorial:

@@ -50,7 +50,7 @@ Enter a name for your serverquery
 # ![tutorialimage](https://imgur.com/Sh70vJn.png)
 
 ### Step 4:
-Write the credentials you recieved down somewhere.
+Write the credentials you received down somewhere.
 Use these to login to the server with the TS3 Toolkit app.
 
 # ![tutorialimage](https://imgur.com/QQ3TSDa.png)

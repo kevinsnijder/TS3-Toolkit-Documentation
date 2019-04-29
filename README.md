@@ -25,7 +25,7 @@ On the application tab, enable the "Advanced permissions system" checkbox.
 ### Step 3:
 Give clients the correct permission.
 
-- Select the group you'd like to give access to the app on the right.
+- Select the group you'd like to give access to the app on the left.
 - Search for 'serverquery'
 - Check the *b_client_create_modify_serverquery_login* checkbox.
 
